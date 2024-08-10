@@ -1,1 +1,3 @@
+
+new line using nano
 this is 1st file for github 
